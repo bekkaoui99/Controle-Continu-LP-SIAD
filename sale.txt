@@ -1,0 +1,24 @@
+id:41f9cc08-f9c9-4b57-95ea-d1d8593ed291
+client:test
+product:pc
+Quantity:2
+Total price:40000.0
+***********************************
+id:b709bfca-2ab4-421b-bf85-b970e347fc4c
+client:hamza
+product:pc
+Quantity:10
+Total price:200000.0
+***********************************
+id:aa1fc60d-e8a4-4ef9-af72-c5bca7741ce1
+client:hamza
+product:phone
+Quantity:10
+Total price:2000000.0
+***********************************
+id:7bfd9957-8c13-4fc1-a332-51917ccc3c0a
+client:hamza
+product:pc
+Quantity:1
+Total price:20000.0
+***********************************

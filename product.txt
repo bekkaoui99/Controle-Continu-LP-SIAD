@@ -1,0 +1,15 @@
+id:4e9f4b6f-f369-4a53-be60-8ff5c21060c2
+name:printer
+price:100
+quantity:10
+***********************************
+id:98edeb5b-89d8-48b1-a73b-63a87049ae0c
+name:pc
+price:20000
+quantity:9
+***********************************
+id:135fda65-919d-4cb6-8adf-ba2cdd865825
+name:phone
+price:20000
+quantity:10
+***********************************
