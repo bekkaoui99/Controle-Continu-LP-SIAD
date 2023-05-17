@@ -11,8 +11,8 @@ public class Exercice1 {
         Scanner scanner = new Scanner(System.in);
         System.out.print("Entrez une chaîne de caractères : ");
         String chaine = scanner.nextLine();
-        chaine = chaine.replaceAll("\\s", ""); // Supprime les espaces
-        chaine = chaine.toLowerCase(); // Convertit tous les caractères en minuscules
+        chaine = chaine.replaceAll("\\s", "");
+        chaine = chaine.toLowerCase();
 
         Map<Character, Integer> occurences = new HashMap<Character, Integer>();
 

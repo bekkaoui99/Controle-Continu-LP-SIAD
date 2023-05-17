@@ -5,6 +5,11 @@
 <li>exercace three</li>
 </ul>
 <h1>exercace one</h1>
+<h2>count the number of character in a text</h2>
+<img src="src/main/resources/number_of_c.png">
+
+
+<h1>exercace two -> shopping</h1>
 <h2>main interface</h2>
 <img src="src/main/resources/main.png" />
 <h3>create Product</h3>
@@ -33,4 +38,6 @@
 <h3>select all clients</h3>
 <img src="src/main/resources/list_client.png">
 
-
+<h1>exercace three</h1>
+<h2>convert number to text -> like (3) to (three)</h2>
+<img src="src/main/resources/number_to_text.png">
