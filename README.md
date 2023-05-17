@@ -30,6 +30,10 @@
 <img src="src/main/resources/sale_quantity_not_available.png">
 <h4>successfully</h4>
 <img src="src/main/resources/sale.png">
+<h3>product before sale</h3>
+<img src="src/main/resources/before_sale.png">
+<h3>product after sale</h3>
+<img src="src/main/resources/after_sale.png">
 <h3>select all transactions</h3>
 <img src="src/main/resources/list_transaction1.png">
 <img src="src/main/resources/list_transaction2.png">
