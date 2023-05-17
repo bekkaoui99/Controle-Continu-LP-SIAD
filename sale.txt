@@ -22,3 +22,9 @@ product:pc
 Quantity:1
 Total price:20000.0
 ***********************************
+id:91188367-ca24-4ae3-b97b-bcea1bd64d42
+client:hamza
+product:smart tv
+Quantity:10
+Total price:70000.0
+***********************************

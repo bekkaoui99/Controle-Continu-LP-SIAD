@@ -111,15 +111,15 @@ public class Exercice2 {
                 System.out.println("| if you want to create a client use number three   => 3      |");
                 System.out.println("| if you want to sale some product use number four   => 4     |");
                 System.out.println("| if you want to see all transactions use number five => 5    |");
-                System.out.println("| if you want to see all product use number six       => 6   |");
-                System.out.println("| if you want to see all client use number seven         => 7  |");
+                System.out.println("| if you want to see all product use number six        => 6   |");
+                System.out.println("| if you want to see all client use number seven        => 7  |");
                 System.out.println("| if you want to close the application use number zero   => 0 |");
 
                 System.out.println("***************************************************************");
                 System.out.print("you have to choose one of this : ");
 
 
-                Scanner scanner = new Scanner(System.in);
+                Scanner scanner = new Scanner(System.in).useDelimiter("\n");
                 choose = scanner.nextInt();
 
 
@@ -156,6 +156,9 @@ public class Exercice2 {
                         System.out.println("write the new Quantity");
                         findProduct.setQuantity(scanner.nextInt());
                         listProduct.set(listProduct.indexOf(findProduct), findProduct);
+                        System.out.println("************************************");
+                        System.out.println("product updated successfully");
+                        System.out.println("************************************");
 
 
                     }
